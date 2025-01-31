@@ -1,4 +1,4 @@
-# Amazon-Black-Friday-Sales
+# Amazon Black Friday Electronics Sales
 
 
 ### Project Overview
