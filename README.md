@@ -1,5 +1,5 @@
 # Amazon-Black-Friday-Sales
-# Project Overview
+## Project Overview
 This project leverages Amazon's electronics reviews dataset to analyze pricing trends, customer sentiments, and product performance during Thanksgiving and Black Friday. The goal is to optimize sales strategies through data-driven insights.
 
 Objectives
